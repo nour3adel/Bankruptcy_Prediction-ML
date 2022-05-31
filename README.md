@@ -33,7 +33,7 @@ I decided to analyze this subject statistically using graphical and numerical me
 ## Summary of research:
 
 ### Dataset source: 
-fedesoriano. (September 2021). Heart Failure Prediction Dataset. Retrieved [December 2021] from https://www.kaggle.com/fedesoriano/heart-failure-prediction.
+https://github.com/nour3adel/Bankruptcy_Prediction-ML/blob/main/Bankruptcy.csv
 <br>
 
 ### Dataset details:
